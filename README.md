@@ -1,4 +1,4 @@
-# FórumHub: Sua API REST de Tópicos para um Fórum Online
+# FórumHub: Desafio proposto pelo Challenge do programa ONE/Alura
 
 Este projeto implementa uma API REST para um sistema de fórum, focando especificamente na gestão de tópicos. Desenvolvido como parte de um desafio de backend, o FórumHub permite criar, consultar, atualizar e deletar tópicos, além de gerenciar usuários, autores e cursos, tudo isso com autenticação via JWT e documentação Swagger.
 
